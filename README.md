@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pcurious learner
+- 👋 Hi, I’m @curious learner
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Github copilot
 - 💞️ I’m looking to collaborate on Github
