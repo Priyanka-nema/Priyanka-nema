@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanka-nema
+- 👋 Hi, I’m @Pcurious learner
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Github copilot
 - 💞️ I’m looking to collaborate on Github
